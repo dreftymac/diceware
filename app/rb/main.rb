@@ -9,6 +9,7 @@
     ###         main.rb
     ###         
     ###         sample runner for tymac_text_diceware
+    ###         output a diceware ngram of size igg, icc times in a row
     ### </reg-file_info>
     
 ### begin_: init ruby
@@ -30,7 +31,7 @@
           odice   =   Tymac_text_diceware.new()
           
           ## process
-          vout +=    "## demo: generate #{icc} diceware words of size #{igg}"
+          vout +=    "## demo: generate #{icc} diceware ngrams of size #{igg}"
           vout +=    "\n"
           vout +=    "\n"
           icc.times{
