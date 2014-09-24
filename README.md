@@ -8,5 +8,8 @@ diceware-related content
     * https://en.wikipedia.org/wiki/Diceware
     * http://world.std.com/~reinhold/diceware.html
 
+* diceware github
+    * https://duckduckgo.com/?q=site%3Agithub.com+%22diceware%22
+
 * runnable.com
     * http://runnable.com/diceware
