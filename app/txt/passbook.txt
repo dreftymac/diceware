@@ -1,0 +1,408 @@
+THE DICEWARE PASSWORD BOOK
+ 
+    Author:  Clayton B., 2013
+    License: This book is in the public domain
+ 
+DIRECTIONS:
+ 
+    To use this book, do the following:
+ 
+    1. Print it out on six separate sheets of paper (optional)
+ 
+    2. With one die:
+        Roll the die to select the page.
+        Roll the die again to select a block on the page
+        Roll the die again to select a column in the block
+        Roll the die a final time to select a row in the column
+ 
+    You can accomplish this same procedure by rolling two dice twice or four
+    dice once (being careful not to rearrange the order in which the dice
+    land, as this can introduce bias into the procedure).
+ 
+    NOTE: It is preferable to use a cup when rolling the dice in order to
+    reduce the possibility of non-randomness. Give a minimum of 5 or 6 good
+    shakes between rolls. This is the only source of randomness in the
+    password, so treat it accordingly.
+ 
+ABOUT:
+ 
+    This password book consists of 1,296 concrete nouns, each of 8 letters or
+    less. I have chosen concrete nouns that I hope are universally known,
+    easily visualized, difficult to misspell and (thus) easy to remember.
+ 
+    Because every word is a dictionary word, there is no entropy in
+    the words themselves, only in the choice of a word. The log base two of
+    1,296 is log_2(1296) = 10.34, so you get about 10 bits of entropy per
+    word randomly selected from this password book.
+ 
+    While some words are sub-strings of other words in the dictionary, this
+    does not affect the entropy calculation because no word in the dictionary
+    can be exactly formed by joining any two other words in the dictionary.
+    So, even though "oatstool" contains the word "stool", it is still
+    distinct from "oatsstool".
+ 
+    You should choose the number of words selected from this password book
+    to form a single password according to the security requirements of your
+    application, but you should never use less than four words, as of 2013.
+    This minimum will only increase with time.
+ 
+    If you are baffled by this book, see http://xkcd.com/936 for an
+    explanation of why you might want to use a password book, such as this.
+    You can also search "diceware" in a web search engine to find out why
+    you might want to avoid computerized password generators.
+ 
+ 
+ 
+WORD LIST:
+ 
+ 
+ 
+ 
+ 
+ 
+FIRST PAGE
+----------------------------------------------------------------------------
+ 
+BLOCK ONE
+    1           2           3           4           5           6
+1   abdomen     actor       actress     adapter     adult       agent
+2   air         alarm       alcohol     alder       algebra     alley
+3   almanac     almond      animal      ankle       ant         antler
+4   ape         apple       apron       arch        archer      arm
+5   armor       army        arrow       art         ash         athlete
+6   atom        attic       author      avenue      axe         baboon
+ 
+BLOCK TWO
+    1           2           3           4           5           6
+1   baby        back        bacon       badge       badger      bag
+2   bagel       bait        baker       ball        balloon     bamboo
+3   banana      band        bandana     banjo       bank        banker
+4   bar         barber      barge       barn        basin       basket
+5   bat         bath        battery     battle      bay         beach
+6   bead        beak        beam        bean        bear        beard
+ 
+BLOCK THREE
+    1           2           3           4           5           6
+1   beast       beaver      bed         bee         beef        beer
+2   beet        beetle      beggar      bell        belly       belt
+3   bench       berry       bike        bikini      bill        bin
+4   biplane     birch       bird        bladder     blade       blanket
+5   blazer      block       blood       bloom       blouse      boar
+6   board       boat        bobcat      body        bog         bolt
+ 
+BLOCK FOUR
+    1           2           3           4           5           6
+1   bomb        bomber      bone        bonnet      book        boot
+2   border      bottle      bottom      bow         bowl        bowler
+3   box         boy         bra         brace       bracket     brain
+4   brake       branch      brass       bread       breast      breath
+5   breeze      brick       bridge      broker      bronco      brooch
+6   brook       broom       brow        brush       bubble      bucket
+ 
+BLOCK FIVE
+    1           2           3           4           5           6
+1   buckle      budget      buffer      buffet      bug         bugle
+2   bulb        bull        bumper      bun         burglar     burn
+3   bus         bush        bust        butcher     butter      button
+4   buzzard     cabbage     cabin       cable       cactus      cafe
+5   cage        cake        calf        calico      camel       camera
+6   camp        can         canal       candle      cannon      canoe
+ 
+BLOCK SIX
+    1           2           3           4           5           6
+1   canvas      cap         cape        capital     caption     car
+2   caravan     card        carp        carrot      cart        cartoon
+3   case        cash        casino      cast        castle      cat
+4   cattle      cave        celery      cell        cellar      ceramic
+5   cereal      chain       chair       chalk       chapel      chaps
+6   charm       check       cheek       cheese      cheetah     chef
+ 
+ 
+SECOND PAGE
+----------------------------------------------------------------------------
+ 
+BLOCK ONE
+    1           2           3           4           5           6
+1   cherry      chess       chest       chick       chicken     child
+2   chill       chime       chin        chive       choker      chowder
+3   church      cinema      circle      city        clam        cleat
+4   clerk       click       client      climb       clipper     cloak
+5   clock       clog        closet      cloth       cloud       clover
+6   club        clutch      coach       coal        coast       coat
+ 
+BLOCK TWO
+    1           2           3           4           5           6
+1   cobweb      cod         coffee      coffin      coil        coin
+2   collar      colon       colony      color       colt        column
+3   comb        comic       comma       condor      cone        conifer
+4   console     cook        cookie      copper      copy        cord
+5   cork        corn        corral      cot         cottage     cotton
+6   couch       cougar      cough       country     course      court
+ 
+BLOCK THREE
+    1           2           3           4           5           6
+1   cousin      cover       cow         crab        crack       cracker
+2   cradle      crate       crayon      cream       creek       crest
+3   crib        cricket     crime       crook       crop        cross
+4   crotch      crow        crowd       crown       cub         cup
+5   curler      current     curtain     curve       cut         dagger
+6   daisy       dancer      dart        dash        date        day
+ 
+BLOCK FOUR
+    1           2           3           4           5           6
+1   deal        death       deer        den         denim       dentist
+2   derby       desert      design      desk        dew         dial
+3   diamond     digger      dill        dime        dimple      diner
+4   dinner      diploma     dirt        dish        diver       dock
+5   doctor      doe         dog         doll        dollar      dolphin
+6   domain      donkey      door        dragon      drain       drake
+ 
+BLOCK FIVE
+    1           2           3           4           5           6
+1   drawer      dream       dress       drill       drink       drive
+2   driver      drop        drug        drum        dryer       duck
+3   dugout      dust        eagle       ear         earth       easel
+4   eclipse     edge        editor      eel         egg         elbow
+5   element     elk         elm         emu         end         enemy
+6   engine      estate      exam        exhaust     expert      eye
+ 
+BLOCK SIX
+    1           2           3           4           5           6
+1   eyelash     face        factory     fairy       family      fan
+2   fang        farm        farmer      father      faucet      fawn
+3   feast       fedora      feet        female      fender      ferry
+4   fiddle      fighter     file        filly       finger      fir
+5   fire        fish        flag        flame       flare       flavor
+6   flax        flesh       flock       flood       floor       flower
+ 
+ 
+THIRD PAGE
+----------------------------------------------------------------------------
+ 
+BLOCK ONE
+    1           2           3           4           5           6
+1   flute       fly         foam        fob         fog         fold
+2   food        foot        forest      fork        form        fowl
+3   fox         frame       freckle     freezer     friend      frigate
+4   frock       frog        frost       frown       fruit       fuel
+5   fur         futon       gale        galleon     gallery     gander
+6   garage      garb        garden      garlic      garter      gate
+ 
+BLOCK TWO
+    1           2           3           4           5           6
+1   gauge       gazebo      gear        gelding     gem         gerbil
+2   geyser      ghost       giant       giraffe     girdle      girl
+3   gland       glass       glider      glove       glue        goat
+4   goggle      gold        gondola     gong        goose       gown
+5   grain       grape       grass       grease      grenade     grill
+6   grip        ground      group       grove       guest       guitar
+ 
+BLOCK THREE
+    1           2           3           4           5           6
+1   gum         gun         gym         gymnast     gyro        hail
+2   hair        hall        hallway     hammer      hammock     hand
+3   handle      harbor      harp        hat         hatchet     hawk
+4   head        heart       hearth      hedge       heel        helmet
+5   hen         herb        heron       hexagon     hill        hip
+6   hoe         hog         hole        honey       hood        hoof
+ 
+BLOCK FOUR
+    1           2           3           4           5           6
+1   hook        horn        hornet      horse       hose        host
+2   hostel      hotel       house       hovel       hub         hut
+3   hutch       hyena       ice         igloo       inch        ink
+4   inn         insect      invoice     iris        iron        island
+5   jackal      jacket      jaguar      jail        jam         jar
+6   jaw         jeep        jelly       jet         jewel       jewelry
+ 
+BLOCK FIVE
+    1           2           3           4           5           6
+1   judge       juice       jumper      junk        jury        kazoo
+2   kettle      key         kid         kidney      kilt        kiosk
+3   kiss        kite        kitten      knee        knife       knight
+4   knot        knuckle     koala       lace        lady        lake
+5   lamb        lamp        land        lap         laptop      larch
+6   lark        lathe       laundry     lawn        lawyer      leaf
+ 
+BLOCK SIX
+    1           2           3           4           5           6
+1   leek        leg         legging     lemon       lemur       lentil
+2   leopard     letter      lettuce     level       light       lilac
+3   lily        limit       limo        line        linen       link
+4   lion        lip         liquor      list        liver       living
+5   lizard      loaf        loafer      loan        lobster     lock
+6   locker      locket      locust      loft        lotion      luggage
+ 
+ 
+FOURTH PAGE
+----------------------------------------------------------------------------
+ 
+BLOCK ONE
+    1           2           3           4           5           6
+1   lumber      lunch       lung        lute        machine     maiden
+2   mail        makeup      male        mall        mallet      mammoth
+3   man         manager     manor       mansion     map         maple
+4   marble      mare        margin      mark        market      marsh
+5   mask        match       mayor       meal        meat        menu
+6   metal       meter       mice        mile        milk        mint
+ 
+BLOCK TWO
+    1           2           3           4           5           6
+1   mirror      missile     mist        mitten      moat        model
+2   mole        money       monkey      monocle     monsoon     month
+3   moon        mop         morning     motel       moth        mother
+4   motor       mountain    mouse       mouth       muff        mule
+5   muscle      museum      music       mustard     mutt        nail
+6   name        napkin      nation      neck        needle      nephew
+ 
+BLOCK THREE
+    1           2           3           4           5           6
+1   nerve       nest        net         nickel      night       noodle
+2   nose        note        novel       number      nurse       nursery
+3   nut         nylon       oak         oar         oasis       oats
+4   oboe        ocean       octopus     office      oil         okra
+5   olive       omelet      onion       opera       orange      orator
+6   orchard     orchid      organ       ostrich     otter       oval
+ 
+BLOCK FOUR
+    1           2           3           4           5           6
+1   oven        owl         owner       ox          oxen        oyster
+2   package     packet      pad         page        pail        paint
+3   painter     pair        pajama      palm        pan         panda
+4   pansy       panther     pantry      paper       parade      parcel
+5   parent      park        parka       parrot      party       pasta
+6   pastor      pastry      patch       path        patio       paw
+ 
+BLOCK FIVE
+    1           2           3           4           5           6
+1   pea         peach       peak        pear        pelican     pelt
+2   pen         pencil      pepper      perch       perfume     period
+3   person      pest        pet         petal       pew         phone
+4   piano       piccolo     pick        pickle      picture     pie
+5   pig         pigeon      pill        pillow      pilot       pimple
+6   pin         pine        pinto       pipe        pizza       place
+ 
+BLOCK SIX
+    1           2           3           4           5           6
+1   plain       plane       planet      plant       planter     plate
+2   play        pleat       plier       plywood     pocket      poet
+3   point       poison      poncho      pond        pony        poppy
+4   porch       port        post        pot         potato      pouch
+5   powder      preface     price       prince      princess    printer
+6   prison      product     protest     pudding     puddle      puma
+ 
+ 
+FIFTH PAGE
+----------------------------------------------------------------------------
+ 
+BLOCK ONE
+    1           2           3           4           5           6
+1   pump        pumpkin     punch       pupil       puppy       purse
+2   pyramid     quail       quake       quart       quarter     quartz
+3   queen       quill       quilt       quiver      rabbit      raccoon
+4   rack        radar       radio       radish      raft        rafter
+5   rag         rail        railway     rain        rake        ram
+6   ranch       range       rat         raven       record      refund
+ 
+BLOCK TWO
+    1           2           3           4           5           6
+1   relish      report      retina      rice        rifle       ring
+2   river       road        roast       robe        robin       rock
+3   rocket      rod         roll        roller      roof        room
+4   rooster     root        rope        rose        rubber      ruler
+5   sack        saddle      sail        salad       salary      sale
+6   salmon      saloon      salt        sand        sandal      sardine
+ 
+BLOCK THREE
+    1           2           3           4           5           6
+1   sash        sausage     saw         scale       scanner     scarf
+2   scent       school      scissors    scooter     scorpion    scraper
+3   screen      screw       sea         seal        seat        seed
+4   segment     senator     servant     server      settler     shack
+5   shade       shadow      shampoo     shanty      shape       shark
+6   shawl       shears      shed        sheep       sheet       shelf
+ 
+BLOCK FOUR
+    1           2           3           4           5           6
+1   shell       shift       shin        shingle     ship        shirt
+2   shoe        shop        shore       shorts      shoulder    shovel
+3   shrimp      shrine      sibling     side        siding      sign
+4   silk        silo        silver      singer      sink        sister
+5   skate       ski         skin        skirt       skull       skunk
+6   sky         slash       slave       sled        sleet       slip
+ 
+BLOCK FIVE
+    1           2           3           4           5           6
+1   slipper     slope       sloth       smock       smog        smoke
+2   snail       snake       sneaker     snow        soap        sock
+3   soda        sofa        soil        soldier     son         song
+4   soprano     sound       soup        sow         soy         space
+5   spade       spandex     spark       sparrow     spear       sphere
+6   spider      spike       spinach     spine       spleen      sponge
+ 
+BLOCK SIX
+    1           2           3           4           5           6
+1   spoon       spot        spout       spring      sprout      spruce
+2   spur        spy         square      squash      squid       stable
+3   stadium     stag        stage       stair       stallion    stamp
+4   staple      star        station     steak       steam       steel
+5   stem        step        stew        stick       stinger     stitch
+6   stock       stocking    stomach     stone       stool       store
+ 
+ 
+SIXTH PAGE
+----------------------------------------------------------------------------
+ 
+BLOCK ONE
+    1           2           3           4           5           6
+1   storm       story       stove       straw       stream      street
+2   string      stud        studio      study       stylus      suburb
+3   subway      sugar       suit        summer      sun         surf
+4   surgeon     sushi       swallow     swamp       swan        sweat
+5   sweater     swim        swing       switch      sword       syrup
+6   table       tail        tailor      tank        tanker      target
+ 
+BLOCK TWO
+    1           2           3           4           5           6
+1   tart        tavern      tax         taxi        tea         teacher
+2   team        teen        teeth       teller      temple      tennis
+3   tent        text        theater     thigh       thistle     thong
+4   thread      throat      throne      thumb       thunder     tiara
+5   ticket      tie         tiger       tile        timer       tin
+6   tip         tire        tissue      toad        toe         toilet
+ 
+BLOCK THREE
+    1           2           3           4           5           6
+1   tomato      tongue      tooth       top         tornado     torso
+2   touch       tower       town        toy         tractor     traffic
+3   trail       train       tram        transom     trap        tray
+4   tree        tremor      triangle    trim        trip        tripod
+5   trolley     trombone    trooper     trout       trowel      truck
+6   truffle     trumpet     trunk       tub         tuba        tube
+ 
+BLOCK FOUR
+    1           2           3           4           5           6
+1   tulip       tummy       tuna        tunic       tunnel      turban
+2   turkey      turnip      turret      turtle      tuxedo      twig
+3   twine       twister     typhoon     umbrella    uncle       uniform
+4   urn         usher       utensil     vacuum      valley      van
+5   vanity      vase        vault       venom       veranda     verse
+6   vessel      vest        villa       village     vine        vinyl
+ 
+BLOCK FIVE
+    1           2           3           4           5           6
+1   viola       violet      violin      vise        visor       vixen
+2   volcano     voyage      vulture     wafer       waffle      waist
+3   waiter      walk        walkway     wall        wallet      walnut
+4   walrus      washer      wasp        watch       water       wave
+5   wax         wealth      weapon      weasel      wedge       weed
+6   well        whale       wharf       wheat       wheel       whip
+ 
+BLOCK SIX
+    1           2           3           4           5           6
+1   whiskey     whistle     willow      wind        window      wine
+2   wing        wire        witch       wolf        woman       wombat
+3   wood        wool        word        worm        wound       wrap
+4   wren        wrench      wrinkle     wrist       writer      yacht
+5   yam         yard        yarn        yogurt      yoke        zebra
+6   zephyr      zinc        zipper      zither      zone        zoo
