@@ -7,6 +7,7 @@ diceware-related content
 * diceware overview
     * https://en.wikipedia.org/wiki/Diceware
     * http://world.std.com/~reinhold/diceware.html
+    * http://xkcd.com/936
 
 * diceware github
     * https://duckduckgo.com/?q=site%3Agithub.com+%22diceware%22
