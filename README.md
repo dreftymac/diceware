@@ -26,3 +26,6 @@ diceware-related content
 
 * runnable.com
     * http://runnable.com/diceware
+
+* wordlist
+    * http://world.std.com/~reinhold/diceware.wordlist.asc
