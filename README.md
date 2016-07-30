@@ -21,6 +21,8 @@ diceware-related content
     * https://duckduckgo.com/?q=site%3Agithub.com+%22diceware%22
     * https://github.com/search?utf8=%E2%9C%93&q=diceware
 
+* related
+    * phonetic alphabets ;; https://github.com/zeke/acrophonic-alphabets/blob/master/alphabets.json
+
 * runnable.com
     * http://runnable.com/diceware
-
