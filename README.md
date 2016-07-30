@@ -4,6 +4,14 @@ diceware-related content
 
 ### links
 
+* diceware github python
+    * https://github.com/search/advanced?l=&q=diceware+language%3APython
+    * https://github.com/ulif/diceware
+    * https://github.com/ntmoe/diceware
+
+* diceware app
+    * https://diceware.herokuapp.com/
+
 * diceware overview
     * https://en.wikipedia.org/wiki/Diceware
     * http://world.std.com/~reinhold/diceware.html

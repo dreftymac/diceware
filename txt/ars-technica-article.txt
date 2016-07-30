@@ -1,0 +1,598 @@
+
+
+Welcome to the Ars OpenForum.
+RegisterLoginPosting Guidelines | Contact Moderators
+Ars Technica > Forums
+Jump to:  
+Diceware passwords now need six random words to thwart hackers
+
+Reply to topic
+144 posts • 1234  Next
+JournalBot
+Ars Legatus Legionis 
+et Subscriptor
+Registered: Apr 5, 2005
+Posts: 73246
+Reply with quotePosted: Thu Mar 27, 2014 10:19 am
+Five isn't enough anymore because password cracking is frighteningly effective.
+
+Read the whole story
+TheCaribou
+Smack-Fu Master, in training
+Registered: Jul 5, 2012
+Posts: 67
+Reply with quotePosted: Thu Mar 27, 2014 10:22 am
+If the word list is known, I don't understand how this is an effective means of generating a password.
+RockDaMan
+Ars Tribunus Angusticlavius
+Registered: Jun 19, 2007
+Posts: 6323
+Reply with quotePosted: Thu Mar 27, 2014 10:29 am
+Diceware produced this six word group for my Ars password:
+
+way too much info there Brodkin
+
+
+
+
+
+Edit: I'm famous!
+Last edited by RockDaMan on Thu Mar 27, 2014 10:48 am
+flunk
+Ars Tribunus Militum
+Registered: Oct 5, 2005
+Posts: 2350
+Reply with quotePosted: Thu Mar 27, 2014 10:30 am
+TheCaribou wrote:
+If the word list is known, I don't understand how this is an effective means of generating a password.
+
+
+With current cracking technology, it isn't. A 6 dice word password is approximately as secure as a 6 character password in a character set of 7,776 characters.
+
+Whoops, obvious typo there don't know where that 20 came from.
+Last edited by flunk on Thu Mar 27, 2014 11:11 am
+iconmaster
+Ars Tribunus Angusticlavius
+Tribus: Texas
+Registered: Aug 31, 2001
+Posts: 8507
+Reply with quotePosted: Thu Mar 27, 2014 10:30 am
+I'm tired of this arms race. We need a better solution.
+cyrogenic
+Ars Praetorian
+Registered: Jun 26, 2009
+Posts: 414
+Reply with quotePosted: Thu Mar 27, 2014 10:32 am
+TheCaribou wrote:
+If the word list is known, I don't understand how this is an effective means of generating a password.
+
+
+It is deceptive at first. It seems like with 7776 words, it wouldn't take too long to cycle through them all, right?
+
+
+well, correct me if I'm wrong, but a 7 word long phrase would be 
+1,719,070,799,748,422,591,028,658,176
+combinations, even if the attacker knew the phrase was a Diceware phrase.
+
+For comparison a 20 character password (without special characters or numbers, so think someone making something memorable) is
+
+19,928,148,895,209,409,152,340,197,376
+
+only ~1.5 times as hard. 
+
+
+So a 7 phrase Diceware is between a 19 and 20 character password, even if the attacker knows the entire dictionary and that is where the password came from.
+
+Obviously, adding special characters makes for more combos, and numbers are a good idea too, but it isn't bad.
+foreignreign
+Ars Praetorian
+Registered: Jan 17, 2014
+Posts: 808
+Reply with quotePosted: Thu Mar 27, 2014 10:36 am
+Or people could start using pass phrases for passwords.
+
+I mean, one of the most popular "passwords" ever is "open sesame." That ain't no word! Easy to remember to boot.
+True_North
+Smack-Fu Master, in training
+Registered: Jan 17, 2014
+Posts: 58
+Reply with quotePosted: Thu Mar 27, 2014 10:38 am
+As far as p/w go , i just use the 16 or 18 alphanumeric serial/product number off my keyboards,mice,TV`s
+if i forget a p/w, meh, just flip keyboard an Voila! there it is...
+ava
+Seniorius Lurkius 
+et Subscriptor
+Registered: Oct 12, 2004
+Posts: 48
+Reply with quotePosted: Thu Mar 27, 2014 10:39 am
+cyrogenic wrote:
+TheCaribou wrote:
+If the word list is known, I don't understand how this is an effective means of generating a password.
+
+
+It is deceptive at first. It seems like with 7776 words, it wouldn't take too long to cycle through them all, right?
+
+
+well, correct me if I'm wrong, but a 7 word long phrase would be 
+1,719,070,799,748,422,591,028,658,176
+combinations, even if the attacker knew the phrase was a Diceware phrase.
+
+For comparison a 20 character password (without special characters or numbers, so think someone making something memorable) is
+
+19,928,148,895,209,409,152,340,197,376
+
+only ~1.5 times as hard. 
+
+
+So a 7 phrase Diceware is between a 19 and 20 character password, even if the attacker knows the entire dictionary and that is where the password came from.
+
+Obviously, adding special characters makes for more combos, and numbers are a good idea too, but it isn't bad.
+
+
+Those characters also have to be random, it's easy to fall into the trap of choosing non-random characters in order to make a 19-20 character password easier to remember. Remembering a 7 random word combination however is very doable (because of our peculiar brain), but just as hard to crack.
+bthylafh
+Ars Praefectus
+Tribus: Southwest Missouri
+Registered: Apr 21, 2004
+Posts: 5240
+Reply with quotePosted: Thu Mar 27, 2014 10:40 am
+iconmaster wrote:
+I'm tired of this arms race. We need a better solution.
+
+
+Password managers with randomly-generated site pwds and multi-factor authentication are state-of-the-art right now. Just toss another couple Diceware words on the end of your master password and you should be OK for now.
+killerhurtalot
+Ars Centurion
+Registered: Mar 4, 2012
+Posts: 387
+Reply with quotePosted: Thu Mar 27, 2014 10:40 am
+So.... I'm guessing my passwords are woefully insecure lol. I only use a 10+ character/number/symbol randomized password... No words in it though lol.
+RockDaMan
+Ars Tribunus Angusticlavius
+Registered: Jun 19, 2007
+Posts: 6323
+Reply with quotePosted: Thu Mar 27, 2014 10:41 am
+From the Diceware FAQ:
+
+Quote:
+The Diceware method is secure even if an attacker knows that you used Diceware to pick your passphrase, knows how many words are in your passphrase and knows the word list you used. The security of Diceware comes from the huge number of combinations that an attacker must search through even with that knowledge . The Diceware word list contains 7776 words, so if you pick a five-word passphrase, there are 7776 x 7776 x 7776 x 7776 x 7776 combinations. That is over 2**64 (2 to the 64 power or 2.6 X 10**19) possibilities. A six word Diceware passphrase confronts an attacker with 2**77 (2 X 10**23) combinations; seven words 2**90 (1.5 X 10**27).
+
+
+http://world.std.com/~reinhold/diceware ... meoneknows
+Solidstate89
+Ars Tribunus Militum 
+et Subscriptor
+Tribus: Sabres Nation
+Registered: May 23, 2011
+Posts: 4746
+Reply with quotePosted: Thu Mar 27, 2014 10:44 am
+killerhurtalot wrote:
+So.... I'm guessing my passwords are woefully insecure lol. I only use a 10+ character/number/symbol randomized password... No words in it though lol.
+
+Is that your only password that you use everywhere? If so, you're horribly, frighteningly insecure. Go pick a password manager right away and begin using it.
+TheCaribou
+Smack-Fu Master, in training
+Registered: Jul 5, 2012
+Posts: 67
+Reply with quotePosted: Thu Mar 27, 2014 10:44 am
+RockDaMan wrote:
+From the Diceware FAQ:
+
+Quote:
+The Diceware method is secure even if an attacker knows that you used Diceware to pick your passphrase, knows how many words are in your passphrase and knows the word list you used. The security of Diceware comes from the huge number of combinations that an attacker must search through even with that knowledge . The Diceware word list contains 7776 words, so if you pick a five-word passphrase, there are 7776 x 7776 x 7776 x 7776 x 7776 combinations. That is over 2**64 (2 to the 64 power or 2.6 X 10**19) possibilities. A six word Diceware passphrase confronts an attacker with 2**77 (2 X 10**23) combinations; seven words 2**90 (1.5 X 10**27).
+
+
+http://world.std.com/~reinhold/diceware ... meoneknows
+
+I see. I didn't realize that the "words" were not just dictionary words, but punctuation, numbers, symbols, etc.
+baloroth
+Ars Scholae Palatinae
+Registered: May 23, 2009
+Posts: 856
+Reply with quotePosted: Thu Mar 27, 2014 10:44 am
+TheCaribou wrote:
+If the word list is known, I don't understand how this is an effective means of generating a password.
+
+
+It's secure for essentially the same reason a regular password is, despite the fact that the letters/numbers/characters that can make up a password are known. That's basically what it is: a 5-7 character long password made randomly from 7776 characters. Some quick calculations shows there are 2.8*10^19 possible 5 word long Diceware passwords. You'd need to guess on average half those to brute-force it, which even at 350 billion guesses a second would still take over a year.
+MobiusPizza
+Ars Scholae Palatinae
+Registered: Aug 6, 2011
+Posts: 985
+Reply with quotePosted: Thu Mar 27, 2014 10:44 am
+While using LastPass myself, I've encountered many websites which restrict the length of password to as few as 12 characters, which is not even enough for 2 long words. Microsoft account is notorious for only allowing a maximum of 16 characters. These length limits should be shamed and named.
+
+Random alphanumeric password is still the only way to go in such cases.
+Ainamacar
+Ars Scholae Palatinae 
+et Subscriptor
+Registered: Jul 22, 2002
+Posts: 850
+Reply with quotePosted: Thu Mar 27, 2014 10:45 am
+flunk wrote:
+TheCaribou wrote:
+If the word list is known, I don't understand how this is an effective means of generating a password.
+
+
+With current cracking technology, it isn't. A 20 dice word password is approximately as secure as a 6 character password in a character set of 7,776 characters.
+
+
+Huh? If you have an alphabet of 7,776 unique characters, then choosing 6 of them at random is exactly equivalent to choosing 6 words at random from the diceware list given the following assumption:
+Every possible diceware password has exactly one way of generating it. (That is, no "go"+"there" vs. "got"+"here" situations.)
+
+If the cracker does not have knowledge of the system being used to generate passwords, of course, whatever approach is used might be more suited to one or the other. However, the security of either system should only be considered under the worst-case scenario (for the user) where the attacker does have such knowledge.
+Last edited by Ainamacar on Thu Mar 27, 2014 10:46 am
+Astramancer
+Ars Scholae Palatinae
+Registered: Jul 14, 2012
+Posts: 608
+Reply with quotePosted: Thu Mar 27, 2014 10:46 am
+iconmaster wrote:
+I'm tired of this arms race. We need a better solution.
+
+
+We have better solutions, such as physical keys (like an encryption dongle or something), two-factor, or other things I'm not currently aware of.
+
+The problem is the tradeoffs. It's really, really hard to make something that is convenient, portable, and secure. It's one of those "pick 2" situations. Password managers are (well, can be) secure and convenient, but not especially portable (try using one on a library computer, for example), two-factor is portable and secure, but not terribly convenient. And plain vanilla passwords are both convenient and portable... just not terribly secure.
+
+What needs to happen is something that just won't -- ensure that all websites use good security on their side. Not just hash the passwords once with MD5 (or leave in plain text!) and be done, but actual security using many itterations of good, strong cryptographic hash algorithms designed for at rest security. And keep them updated so as progress inevitably marches on, they don't languish in insecurity. That, combined users not re-using passwords and using reasonably strong passwords, would greatly enhance the security of everyone.
+
+But good luck with that.
+jbrodkin
+Ars Scholae Palatinae 
+et Subscriptor
+Registered: Aug 29, 2011
+Posts: 1271
+Reply with quotePosted: Thu Mar 27, 2014 10:46 am
+RockDaMan wrote:
+Diceware produced this six word group for my Ars password:
+
+way too much info there Brodkin
+
+
+Need a picture?
+RockDaMan
+Ars Tribunus Angusticlavius
+Registered: Jun 19, 2007
+Posts: 6323
+Reply with quotePosted: Thu Mar 27, 2014 10:49 am
+jbrodkin wrote:
+RockDaMan wrote:
+Diceware produced this six word group for my Ars password:
+
+way too much info there Brodkin
+
+
+Need a picture?
+
+
+It would make for an intriguing KeePass key file...
+Shmeelz
+Ars Scholae Palatinae
+Registered: Feb 9, 2008
+Posts: 936
+Reply with quotePosted: Thu Mar 27, 2014 10:50 am
+Is there anything special about Diceware words? Like is there a difference between six Diceware words and six words randomly pulled from a dictionary?
+
+I assume there would be a difference in cracking between using three letter words and six letter words, and longer words are better.
+arachnae
+Wise, Aged Ars Veteran
+Registered: Nov 16, 2012
+Posts: 181
+Reply with quotePosted: Thu Mar 27, 2014 10:50 am
+jbrodkin wrote:
+RockDaMan wrote:
+Diceware produced this six word group for my Ars password:
+
+way too much info there Brodkin
+
+
+Need a picture?
+
+
+Yes.
+RockDaMan
+Ars Tribunus Angusticlavius
+Registered: Jun 19, 2007
+Posts: 6323
+Reply with quotePosted: Thu Mar 27, 2014 10:52 am
+Ok Arsians: someone explain this from the Diceware FAQ, please:
+
+Quote:
+I have an electronic dice throw generator. Should I use it?
+
+No! Unless you know how the electronics generate the randomness and can evaluate its strength, stick to old-fashioned real dice.
+
+
+Shouldn't there be at least some trustworthy electronic random number generators out there powering a dice program?
+ev9_tarantula
+Ars Praefectus
+Registered: Oct 14, 2002
+Posts: 4691
+Reply with quotePosted: Thu Mar 27, 2014 10:52 am
+TheCaribou wrote:
+If the word list is known, I don't understand how this is an effective means of generating a password.
+
+
+The best way to think of it is that each word is a letter in a very large 7776 letter alphabet. Each letter has 12.9 bits of entropy if randomly chosen.
+
+The size 7776 was chose to make it easy to pick enough words for common key sizes and recommendations. 5 words = 64 bits, 10 words = 128 bits.
+
+Secrecy of the set of symbols used is not part of the diceware approach to security, it's purely the number of words used. In fact diceware assumes an adversary uses the diceware list. i.e. It assumes a worst case.
+
+So the latest six word recommendation gives you 77.5 bits of entropy, with a few more bits for formatting variations such as spacing and capitalisation.
+
+Diceware if used properly is a very effective way of generating secure but memorable passwords.
+Wyrmaster
+Ars Centurion
+Registered: Apr 23, 2013
+Posts: 329
+Reply with quotePosted: Thu Mar 27, 2014 10:53 am
+Most my passwords look like a jumble of random keys but are actually song lyrics. Take part of a sing, take the first letter of each word, capitalize some, change some to numbers and symbols. You end up with something that's somewhere between random and rememberable
+Deus Casus
+Ars Praefectus
+Registered: Mar 22, 2001
+Posts: 4642
+Reply with quotePosted: Thu Mar 27, 2014 10:55 am
+Okay so I just thought of what I think would be a good password scheme that isn't really a password scheme.
+1) require 10+chars for the password
+2) take the first 5 chars and hash it with whatever flavor you want
+3) take the remaining chars and hash it again with whatever flavor you want.
+4) add the hashes together and hash a 3rd time.
+
+This would prevent hackers from being able to brute force the password since each site could change how many chars they use to form each hash and how many hashes they do for each one.
+
+I'm sure this has been thought of before by people with more knowledge in the security world but could someone explain why it wouldn't be a good idea?
+aliasundercover
+Ars Scholae Palatinae
+Registered: Nov 10, 2009
+Posts: 692
+Reply with quotePosted: Thu Mar 27, 2014 10:55 am
+Having a super password only helps slow down someone who has access to the hashes. If they are on line trying to log in they get three guesses before being locked out. It doesn't matter how fast their computer is or how many cloud instances they have lined up they, and that means you too, can only do a few tries.
+
+Do you really think your password will be secure if the hash has been captured?
+
+The effect of massive passwords is to lower security. People write all their passwords in one place.
+
+Here is a trivial denial of service attack. Harvest user names from the forums. Attempt to log in with each user name and three bogus passwords, password1, password2, password3. Of course you don't actually get in often but maybe once or twice. What you do is lock everyone out.
+arachnae
+Wise, Aged Ars Veteran
+Registered: Nov 16, 2012
+Posts: 181
+Reply with quotePosted: Thu Mar 27, 2014 10:56 am
+I am completely confused as to why this is considered so secure.
+
+I understand that 20 a 20 character password would take a long time to brute force, however as people have said, with dicewords, the concept of a character changes from a letter to a word, and although there are 7776 or whatever of them, it is 7776^6:
+2.21073919720733E23
+
+20 characters themselves offer a magnitude higher possibility to brute force, so I believe a dictionary attack would surely work if the dicewords dictionary is known. 
+
+Adding a character depends on the weak fleshy bit behind the screen, the likelyhood is that they will add a number, probably at the end, doesnt increase the odds by that much. For it to work effectively it needs to be something in the middle of one of the words like:
+
+pota5tohatstewlabeller
+
+anything else can be pushed into an algorithm in the same way that leetspeak characters have been and are therefore a stopgap, not an answer.
+harteman
+Ars Scholae Palatinae
+Registered: Aug 25, 2010
+Posts: 1486
+Reply with quotePosted: Thu Mar 27, 2014 10:57 am
+An example of a form of password I use regularly: ChineseRepublicanXyz123!!
+
+According to the website howsecureismypassword.net, it would take a desktop pc a nonillion years
+to crack my password.
+
+I don't even have a clue as to how long that is.... Apparently it's 1,000,000,000,000,000,000,000,000,000,000 years. By that time, stars in our universe will have run their course, and the universe will enter a literal dark age.
+Last edited by harteman on Thu Mar 27, 2014 11:15 am
+bames53
+Ars Praefectus
+Registered: Jun 20, 2002
+Posts: 5075
+Reply with quotePosted: Thu Mar 27, 2014 10:58 am
+TheCaribou wrote:
+I see. I didn't realize that the "words" were not just dictionary words, but punctuation, numbers, symbols, etc.
+
+Don't misunderstand: Even if the diceware word list were completely made up of words using only lower case alphabetic characters it would still be secure. The thing that matters is how long the word list is, not what the words are.
+
+If you're still uncertain and want to understand then I recommend you actually work out the math yourself. Doing the calculations should give you a better feel. Or maybe another option is this page which tries to give people a better feel for exponential numbers.
+ev9_tarantula
+Ars Praefectus
+Registered: Oct 14, 2002
+Posts: 4691
+Reply with quotePosted: Thu Mar 27, 2014 10:59 am
+Shmeelz wrote:
+Is there anything special about Diceware words? Like is there a difference between six Diceware words and six words randomly pulled from a dictionary?
+
+I assume there would be a difference in cracking between using three letter words and six letter words, and longer words are better.
+
+
+As I recall the words selected were chosen to be short, relatively common so that they are memorable, and distinct, so no homonyms and similar problem words. None of that has anything to do with the security though, it's simply to make it easier for people to use diceware.
+
+Any 7776 words would work equally well from a security point of view.
+aylons
+Smack-Fu Master, in training
+Registered: Jun 8, 2012
+Posts: 35
+Reply with quotePosted: Thu Mar 27, 2014 11:00 am
+Being a polyglot pays: you may try the same trick, with little loss of ease to remember the passphrase, using words from multiple dictionaries.
+
+Of course this depends on your knowledge on different languages, but assuming you use 20k words in your mother language and 10k words in other 3 languages, you get 15.6 bits per word.
+
+Moreover, the attacker now must now which languages YOU speak, or they'll have to use a dictionary from several languages, crippling the attack even further. May not bash a direct attack, but surely give extra protection from leaked passwords DBs.
+
+EDIT: I'm not suggesting someone should to learn more languages just to build better password, of course. And surely this wouldn't be a popular technique in the US.
+Last edited by aylons on Thu Mar 27, 2014 11:02 am
+dtich
+Ars Praetorian
+Registered: May 15, 2008
+Posts: 442
+Reply with quotePosted: Thu Mar 27, 2014 11:01 am
+iconmaster wrote:
+I'm tired of this arms race. We need a better solution.
+
+
+three factor authorization. retina scan, random token generator, and passphrase. would-be crackers would need supercomputers for years to brute those three i'd guess; and thugs would need your eye, your token and a torture chamber.. or two of those three and a small compute cluster to brute one factor.... 
+
+i would imagine retina scanning is going to be fairly widely available ots shortly. already cropping up at consumer trade shows. 
+
+and then of course, keep away from things people really want to steal, go back to quasi-agrarian, sun-worshipping society. the food might be a bit blander but we all might be a lot happier.
+
+/semi-sarcasm throughout...
+Last edited by dtich on Thu Mar 27, 2014 11:08 am
+bames53
+Ars Praefectus
+Registered: Jun 20, 2002
+Posts: 5075
+Reply with quotePosted: Thu Mar 27, 2014 11:01 am
+Shmeelz wrote:
+Is there anything special about Diceware words? Like is there a difference between six Diceware words and six words randomly pulled from a dictionary?
+
+I assume there would be a difference in cracking between using three letter words and six letter words, and longer words are better.
+
+Nope, all that matters is the length of the list. In fact you could use a list 7776 'words' that all only use a single letter:
+
+a
+aa
+aaa
+aaaa
+
+etc. up to 7776 'a's long. It would be just as secure even against an attacker who knows you're using this word list. (well, as long as the passphrase separates the words by spaces so that the lengths cannot be confused.)
+Last edited by bames53 on Thu Mar 27, 2014 11:04 am
+AnniesBoobs
+Ars Centurion
+Registered: Sep 15, 2012
+Posts: 292
+Reply with quotePosted: Thu Mar 27, 2014 11:01 am
+arachnae wrote:
+I am completely confused as to why this is considered so secure.
+
+I understand that 20 a 20 character password would take a long time to brute force, however as people have said, with dicewords, the concept of a character changes from a letter to a word, and although there are 7776 or whatever of them, it is 7776^6:
+2.21073919720733E23
+
+20 characters themselves offer a magnitude higher possibility to brute force, so I believe a dictionary attack would surely work if the dicewords dictionary is known. 
+
+Adding a character depends on the weak fleshy bit behind the screen, the likelyhood is that they will add a number, probably at the end, doesnt increase the odds by that much. For it to work effectively it needs to be something in the middle of one of the words like:
+
+pota5tohatstewlabeller
+
+anything else can be pushed into an algorithm in the same way that leetspeak characters have been and are therefore a stopgap, not an answer.
+
+It's 6^7776, not 7776^6. Huge HUGE difference.
+msclrhd
+Ars Scholae Palatinae
+Tribus: UK
+Registered: Apr 13, 2011
+Posts: 622
+Reply with quotePosted: Thu Mar 27, 2014 11:01 am
+If the attacker knows the password is using the diceware word list, they could do an analysis for each letter on what letters could follow it with a probability score (creating a Hidden Markov Model for the letters). They could do this to limit the search space, and try the more frequent combinations first. For example, 'q' is almost always followed by a 'u'.
+
+You would also need to account for a terminal letter followed by an initial letter (e.g. making a 't' followed by 'q' possible).
+
+This is why it is a good idea to use a large word dictionary sourced from different languages and include people's names.
+DyDx
+Ars Praefectus
+Tribus: Massachusetts
+Registered: Jul 2, 2002
+Posts: 3829
+Reply with quotePosted: Thu Mar 27, 2014 11:03 am
+I don't get the point of Diceware. I'm not slamming it, I'm asking someone to explain the point of it or how it works and is more secure. How is it any more secure than me just selecting 6 random words from the dictionary and stringing them together? Or picking 6 words out of my head? What's the point of the dice rolling and word list? Why not use the whole dictionary to pick words from? I don't get it!
+Last edited by DyDx on Thu Mar 27, 2014 11:03 am
+TheCaribou
+Smack-Fu Master, in training
+Registered: Jul 5, 2012
+Posts: 67
+Reply with quotePosted: Thu Mar 27, 2014 11:03 am
+bames53 wrote:
+TheCaribou wrote:
+I see. I didn't realize that the "words" were not just dictionary words, but punctuation, numbers, symbols, etc.
+
+Don't misunderstand: Even if the diceware word list were completely made up of words using only lower case alphabetic characters it would still be secure. The thing that matters is how long the word list is, not what the words are.
+
+If you're still uncertain and want to understand then I recommend you actually work out the math yourself. Doing the calculations should give you a better feel. Or maybe another option is this page which tries to give people a better feel for exponential numbers.
+
+
+I understand it's tied to length, but I'm trying to wrap my head around how brute forcing "AAA, AAB, AAC" is different from brute forcing <word 1><word 1><word1>, <word1><word1<word2>, if it is known the password may have been constructed via Diceware and the dictionary is public.
+core_dump
+Smack-Fu Master, in training
+Registered: Aug 24, 2012
+Posts: 78
+Reply with quotePosted: Thu Mar 27, 2014 11:07 am
+I use rule only known to me, certain parts of url, combined with other info combined with that url (say ascii odes of last 3 characters) and vila, I don't need the password keeper, just remember the rule.
+Last edited by core_dump on Thu Mar 27, 2014 11:08 am
+craigc
+Ars Centurion
+Registered: Feb 18, 2010
+Posts: 327
+Reply with quotePosted: Thu Mar 27, 2014 11:07 am
+harteman wrote:
+An example of a form of password I use regularly: ChineseRepublicanXyz123!!
+
+According to the website howsecureismypassword.net, it would take a desktop pc a nonillion years
+to crack my password.
+
+I don't even have a clue as to how long that is.... Apparently it's 1,000,000,000,000,000,000,000,000,000,000 years.
+
+You're thinking about this all wrong. The password crackers are quite a bit smarter than just brute forcing. You have used two regular words and followed it by another sequence that is common in passwords. Part of their attack is to take known passwords and common words and put them together.
+You really need to read this Ars article:
+
+http://arstechnica.com/security/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
+144 posts • 1234  Next
+Reply to topic
+Ars Technica > Forums
+Jump to:  
+
+Latest stories from Ars Technica
+
+
+This science fiction novel is a perfect antidote to U.S. election season
+
+White dwarf bombards its companion with relativistic electrons
+
+Scythe, the most-hyped board game of 2016, delivers
+
+Volkswagen could have a fix for its 2.0L diesels, air regulator says
+
+Soylent CEO charged over illegal shipping container his neighbors hate
+
+BowFlex smart dumbbells tested: get ripped without leaving the house
+
+New year, new $500+ pedals: Reviewing the Slaw Device RX Viper
+
+No Man’s Sky is in one man’s hands, thanks to leaked copy
+
+Apple begins wrapping up Swift 3 and lays out plans for Swift 4
+
+Facebook: We will fight IRS over billions in possible owed back taxes
+
+Welcome to the age of ancient DNA sequencing
+
+Sony announces PlayStation VR space requirements—is your room big enough?
+
+AT&T boosts U-verse data cap to 1TB, keeps DSL users at 150GB
+
+It’s now or never: Free Windows 10 upgrade ends in just a few hours
+
+Broadband industry tries again to kill net neutrality and Title II
+
+Zika outbreak confirmed in Florida, first in continental US
+
+Democratic Party’s congressional fundraising committee was also hacked
+
+Microsoft cuts 3,000 jobs in smartphone division, sales
+
+SpaceX takes another step toward reusability with 150-second stage firing
+
+Jason Bourne review: Yes, it’s “worse than Snowden”
+Contact Us | Ars Technica
+
+© Ars Technica 1998-2016
+
+Powered by phpBB and...
+
+Ars OpenForum powered by Server Central
+
+© 2016 Condé Nast. All rights reserved
+Use of this Site constitutes acceptance of our User Agreement (effective 3/21/12) and Privacy Policy (effective 3/21/12), and Ars Technica Addendum (effective 5/17/2012)
+Your California Privacy Rights
+The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
